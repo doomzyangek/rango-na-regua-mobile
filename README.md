@@ -42,4 +42,3 @@ O código está organizado em pastinhas para não virar uma bagunça:
 
 ---
 
-Agora, todos os seus arquivos `.java` no projeto receberam **comentários linha a linha**, detalhando exatamente o que cada símbolo e palavra faz!
